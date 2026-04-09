@@ -1,6 +1,6 @@
 # STARTER-jpa03
 
-Running at: <https://starter-jpa03.dokku-16.cs.ucsb.edu>
+Running at: <https://ikeacat2-jpa03.dokku-16.cs.ucsb.edu>
 
 # Configuring GitHub Pages for the documentation
 
